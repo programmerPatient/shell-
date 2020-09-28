@@ -1,7 +1,7 @@
 #!/bin/bash
 logDirPath="$(dirname $(pwd))/$(date "+%Y")/$(date "+%m")"
 echo ${logDirPath}
-if [ ! -d logDirPath ];then
+if [ ! -d ${logDirPath} ];then
   mkdir logDirPath
 else
   echo "文件夹已经存在"
