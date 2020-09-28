@@ -1,12 +1,5 @@
 #!/bin/bash
-logDirPath="$(dirname $(pwd))/$(date "+%Y")/$(date "+%m")"
-echo ${logDirPath}
-if [ ! -d ${logDirPath} ];then
-  sudo mkdir logDirPath
-else
-  echo "文件夹已经存在"
-fi
-logPath="${logDirPath}/$(date "%d")"
+logPath="$(dirname $(pwd))/log/$(date "%d").txt"
 echo "-------------------------$(date "+%H:%M:%S")-----------------------------------" >> ${logPath}
 echo "执行的命令：" >> ${logPath}
 git add -A
