@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb0a09fe-02a4-4121-ae23-bd8ceaa74463" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/git/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/git/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/2020-09-28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log/2020-09-28.txt" afterDir="false" />
     </list>
@@ -36,14 +35,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="162" />
+          <entry key="md" value="172" />
           <entry key="sh" value="772" />
           <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="162" />
+          <entry key="Markdown" value="172" />
           <entry key="PLAIN_TEXT" value="780" />
         </counts>
       </usages-collector>
@@ -73,8 +72,8 @@
         <entry file="file://$PROJECT_DIR$/git/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="31">
-                <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+              <first_editor>
+                <caret column="15" selection-start-column="15" selection-end-column="15" />
               </first_editor>
               <second_editor />
             </state>
@@ -168,12 +167,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601283120870</updated>
-      <workItem from="1601283122274" duration="5557000" />
+      <workItem from="1601283122274" duration="5601000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5557000" />
+    <option name="totallyTimeSpent" value="5601000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="107" width="972" height="1061" extended-state="0" />
@@ -265,8 +264,8 @@
     <entry file="file://$PROJECT_DIR$/git/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="31">
-            <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <first_editor>
+            <caret column="15" selection-start-column="15" selection-end-column="15" />
           </first_editor>
           <second_editor />
         </state>
