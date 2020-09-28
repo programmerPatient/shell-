@@ -1,6 +1,0 @@
-git push start
-执行的命令：
-git add -A
-git commit -m git push脚本更新
-git push
-git push end

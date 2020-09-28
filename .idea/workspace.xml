@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cb0a09fe-02a4-4121-ae23-bd8ceaa74463" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/git/push.sh" beforeDir="false" afterPath="$PROJECT_DIR$/git/push.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/九月.%i.1601286818.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log/九月.%i.1601286818.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/2020.09.28.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/九月.%i.1601286818.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,16 +50,7 @@
         <entry file="file://$PROJECT_DIR$/git/push.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="62">
-              <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/log/2020.09.28.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -108,11 +100,6 @@
               <item name="shell-" type="462c0819:PsiDirectoryNode" />
               <item name="git" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="shell-" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shell-" type="462c0819:PsiDirectoryNode" />
-              <item name="log" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -148,12 +135,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601283120870</updated>
-      <workItem from="1601283122274" duration="3424000" />
+      <workItem from="1601283122274" duration="3477000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3424000" />
+    <option name="totallyTimeSpent" value="3477000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -231,7 +218,7 @@
     <entry file="file://$PROJECT_DIR$/git/push.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="62">
-          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
         </state>
       </provider>
     </entry>
