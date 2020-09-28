@@ -2,8 +2,10 @@
 logDirPath="../log/$(date "+%Y")/$(date "+%m")"
 if [ ! -d logDirPath ];then
   mkdir logDirPath
+else
+  echo "文件夹已经存在"
 fi
-logPath="${logDirPath}/$(date "+%Y-%m-%d")"
+logPath="${logDirPath}/$(date "%d")"
 echo "-------------------------$(date "+%H:%M:%S")-----------------------------------" >> ${logPath}
 echo "执行的命令：" >> ${logPath}
 git add -A
