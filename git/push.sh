@@ -1,5 +1,5 @@
 #!/bin/bash
-logDirPath="../log/$(date "+%Y")/$(date "+%m")"
+logDirPath="$(dirname $(pwd))/$(date "+%Y")/$(date "+%m")"
 echo ${logDirPath}
 if [ ! -d logDirPath ];then
   mkdir logDirPath
