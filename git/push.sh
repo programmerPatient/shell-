@@ -1,5 +1,6 @@
 #!/bin/bash
 logPath="../log/$(date "+%Y.%m.%d").txt"
+echo -e "\e[1;42mGreed Background\e[0m"
 echo "-------------------------$(date "+%H:%M:%S")-----------------------------------" >> ${logPath}
 echo "执行的命令：" >> ${logPath}
 git add -A
