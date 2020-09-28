@@ -1,6 +1,6 @@
 #!/bin/bash
-logPath="../log/$(date "+%h.%i.%s").txt"
-echo "-------------------------$(date "+%Y.%m.%d")-----------------------------------"
+logPath="../log/$(date "+%Y.%m.%d").txt"
+echo "-------------------------$(date "+%H:%i:%s")-----------------------------------" >> ${logPath}
 echo "git push start" >> ${logPath}
 echo "执行的命令：" >> ${logPath}
 git add -A
@@ -22,4 +22,4 @@ else
  echo "error:$?" >> ${logPath}
 fi
 echo "git push end" >> ${logPath}
-echo "--------------------------end----------------------------------"
+echo "--------------------------end----------------------------------" >> ${logPath}
