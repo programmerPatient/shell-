@@ -1,18 +1,18 @@
 #!/bin/bash
 logPath="../log/$(date "+%Y.%m.%d").txt"
-sed "git push start" >> ${logPath}
+echo "git push start" >> ${logPath}
 git add -A
 if [ $? -eq 0 ]; then
     git commit -m "$1"
     if [ $? -eq 0 ]; then
         git push
         if [ $? -ne 0 ]; then
-            sed $? >> ${logPath}
+            echo $? >> ${logPath}
         fi
     else
-        sed $? >> ${logPath}
+        echo $? >> ${logPath}
     fi
 else
-    sed $? >> ${logPath}
+ echo $? >> ${logPath}
 fi
-sed "git push end" >> ${logPath}
+echo "git push end" >> ${logPath}
