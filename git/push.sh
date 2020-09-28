@@ -1,5 +1,5 @@
 #!/bin/bash
-logPath="$(dirname $(pwd))/log/$(date "%d").txt"
+logPath="$(dirname $(pwd))/log/$(date "+%d").txt"
 echo "-------------------------$(date "+%H:%M:%S")-----------------------------------" >> ${logPath}
 echo "执行的命令：" >> ${logPath}
 git add -A
