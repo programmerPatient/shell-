@@ -12,10 +12,10 @@ git add -A
               if [ $? -eq 0 ]; then
                   echo "git push" >> ${logPath}
               else
-                  echo "error:$?" >> ${logPath}
+                  cmd >> ${logPath}
               fi
           else
-              echo "error:$?" >> ${logPath}
+              cmd >> ${logPath}
           fi
 else
  echo "error:$?" >> ${logPath}
