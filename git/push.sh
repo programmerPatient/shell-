@@ -9,7 +9,7 @@ if [ $? -eq 0 ]; then
   git commit -m "$1" >> ${logPath}  2>&1
   if [ $? -eq 0 ]; then
       echo "git push" >> ${logPath}
-      git push >> ${logPath}  2>&1
+      git push 2>> ${logPath}  
       if [ $? -ne 0 ]; then
          echo "\033[31m git push错误 \033[0m"
          echo "git push错误" >> ${logPath}
