@@ -23,3 +23,16 @@ git push
 --------------------------end---------------------------------------------------------
 -------------------------master鍒嗘敮鐩存帴鎻愪氦(14:16:58)-----------------------------------
 鎵ц鐨勫懡浠わ細
+git add -A
+Microsoft Windows [版本 6.1.7601]
+版权所有 (c) 2009 Microsoft Corporation。保留所有权利。
+
+C:\Users\Administrator\Desktop\学习\shell-\git>EXIT
+Microsoft Windows [版本 6.1.7601]
+版权所有 (c) 2009 Microsoft Corporation。保留所有权利。
+
+C:\Users\Administrator\Desktop\学习\shell-\git>
+C:\Users\Administrator\Desktop\学习\shell-\git>
+C:\Users\Administrator\Desktop\学习\shell-\git>
+C:\Users\Administrator\Desktop\学习\shell-\git>-------------------------master鍒嗘敮鐩存帴鎻愪氦(14:20:43)-----------------------------------
+鎵ц鐨勫懡浠わ細
