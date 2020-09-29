@@ -163,3 +163,18 @@ git push错误
 --------------------------end---------------------------------------------------------
 -------------------------master分支直接提交(14:46:20)-----------------------------------
 执行的命令：
+fatal: HttpRequestException encountered.
+   An error occurred while sending the request.
+fatal: HttpRequestException encountered.
+   An error occurred while sending the request.
+To https://github.com/programmerPatient/shell-
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/programmerPatient/shell-'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+git push错误
+--------------------------end---------------------------------------------------------
+-------------------------master分支直接提交(14:46:50)-----------------------------------
