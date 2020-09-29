@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb0a09fe-02a4-4121-ae23-bd8ceaa74463" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/git/push.sh" beforeDir="false" afterPath="$PROJECT_DIR$/git/push.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/2020-09-29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log/2020-09-29.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +37,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="3" />
+          <entry key="gitignore" value="5" />
           <entry key="md" value="172" />
           <entry key="sh" value="985" />
           <entry key="txt" value="9" />
@@ -47,14 +46,14 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="172" />
-          <entry key="PLAIN_TEXT" value="997" />
+          <entry key="PLAIN_TEXT" value="999" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/git/push.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="31">
@@ -84,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="3" selection-start-column="3" selection-end-column="3" />
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -106,8 +105,8 @@
         <option value="$PROJECT_DIR$/git/readme.md" />
         <option value="$PROJECT_DIR$/log/2020-09-29.txt" />
         <option value="$PROJECT_DIR$/git/mergePush.sh" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/git/push.sh" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -142,11 +141,6 @@
               <item name="shell-" type="b2602c69:ProjectViewProjectNode" />
               <item name="shell-" type="462c0819:PsiDirectoryNode" />
               <item name="git" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shell-" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shell-" type="462c0819:PsiDirectoryNode" />
-              <item name="log" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -184,12 +178,12 @@
       <option name="presentableId" value="Default" />
       <updated>1601283120870</updated>
       <workItem from="1601283122274" duration="5621000" />
-      <workItem from="1601359547678" duration="2944000" />
+      <workItem from="1601359547678" duration="2983000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8565000" />
+    <option name="totallyTimeSpent" value="8604000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -281,17 +275,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/git/push.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="31">
           <caret line="1" column="54" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
