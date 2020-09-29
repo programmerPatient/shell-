@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="cb0a09fe-02a4-4121-ae23-bd8ceaa74463" name="默认更改列表" comment="" />
 =======
     <list default="true" id="cb0a09fe-02a4-4121-ae23-bd8ceaa74463" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/git/mergePush.sh" beforeDir="false" afterPath="$PROJECT_DIR$/git/mergePush.sh" afterDir="false" />
     </list>
+>>>>>>> marry
+=======
+    <list default="true" id="cb0a09fe-02a4-4121-ae23-bd8ceaa74463" name="默认更改列表" comment="" />
 >>>>>>> marry
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,6 +92,7 @@
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="31">
               <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
 =======
@@ -97,6 +102,10 @@
 =======
             <state relative-caret-position="596">
               <caret line="46" column="107" selection-start-line="46" selection-start-column="107" selection-end-line="46" selection-end-column="107" />
+>>>>>>> marry
+=======
+            <state relative-caret-position="279">
+              <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
 >>>>>>> marry
             </state>
           </provider>
@@ -136,7 +145,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/log/2020-09-29.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
+            <state relative-caret-position="317">
               <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
             </state>
           </provider>
@@ -248,12 +257,16 @@
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="8608000" />
 =======
     <option name="totallyTimeSpent" value="9990000" />
 >>>>>>> marry
 =======
     <option name="totallyTimeSpent" value="10068000" />
+>>>>>>> marry
+=======
+    <option name="totallyTimeSpent" value="10086000" />
 >>>>>>> marry
   </component>
   <component name="ToolWindowManager">
@@ -335,11 +348,15 @@
     <entry file="file://$PROJECT_DIR$/log/2020-09-29.log">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="279">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
 >>>>>>> marry
 =======
         <state relative-caret-position="465">
+=======
+        <state relative-caret-position="317">
+>>>>>>> marry
           <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
 >>>>>>> marry
         </state>
@@ -355,13 +372,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../mergePush.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="937">
-          <caret line="45" column="3" lean-forward="true" selection-start-line="3" selection-end-line="45" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/git/push.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="620">
@@ -369,10 +379,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../mergePush.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="937">
+          <caret line="45" column="3" lean-forward="true" selection-start-line="3" selection-end-line="45" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/git/mergePush.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="46" column="107" selection-start-line="46" selection-start-column="107" selection-end-line="46" selection-end-column="107" />
+        <state relative-caret-position="279">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
         </state>
       </provider>
     </entry>
