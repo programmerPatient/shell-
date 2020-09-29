@@ -1,5 +1,4 @@
 #!/bin/bash
-echo "-------------------------master分支直接提交($(date "+%H:%M:%S"))-----------------------------------" >> ${logPath}
 logPath="$(dirname $(pwd))/log/$(date "+%Y-%m-%d").log"
 echo "-------------------------master分支直接提交($(date "+%H:%M:%S"))-----------------------------------" >> ${logPath}
 git add . 2>> ${logPath}
