@@ -61,3 +61,13 @@ To https://github.com/programmerPatient/shell-
 -------------------------master分支直接提交(14:33:00)-----------------------------------
 执行的命令：
 git add -A
+git commit -m "ssssss"
+[master 9c29002] ssssss
+ 3 files changed, 30 insertions(+), 10 deletions(-)
+git push
+To https://github.com/programmerPatient/shell-
+   25618b9..9c29002  master -> master
+--------------------------end---------------------------------------------------------
+-------------------------master分支直接提交(14:34:35)-----------------------------------
+执行的命令：
+git add -A
