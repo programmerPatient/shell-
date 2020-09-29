@@ -15,6 +15,7 @@
     <session id="-1717239459">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -104,7 +105,7 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="960" />
     <option name="y" value="107" />
     <option name="width" value="972" />
@@ -167,12 +168,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601283120870</updated>
-      <workItem from="1601283122274" duration="5601000" />
+      <workItem from="1601283122274" duration="5621000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5601000" />
+    <option name="totallyTimeSpent" value="5621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="107" width="972" height="1061" extended-state="0" />
