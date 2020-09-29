@@ -147,3 +147,19 @@ git push错误
 -------------------------master分支直接提交(14:44:05)-----------------------------------
 执行的命令：
 git add -A
+git add -A 结束
+git commit -m "ssssss" 开始
+git commit -m "ssssss" 结束
+git push 开始
+To https://github.com/programmerPatient/shell-
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/programmerPatient/shell-'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+git push错误
+--------------------------end---------------------------------------------------------
+-------------------------master分支直接提交(14:46:20)-----------------------------------
+执行的命令：
