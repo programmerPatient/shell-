@@ -36,3 +36,18 @@ C:\Users\Administrator\Desktop\ѧϰ\shell-\git>
 C:\Users\Administrator\Desktop\ѧϰ\shell-\git>
 C:\Users\Administrator\Desktop\ѧϰ\shell-\git>-------------------------master分支直接提交(14:20:43)-----------------------------------
 执行的命令：
+git add -A
+[master 40ea83b] ssssss
+ 3 files changed, 26 insertions(+), 14 deletions(-)
+git commit -m "ssssss"
+fatal: HttpRequestException encountered.
+   An error occurred while sending the request.
+fatal: HttpRequestException encountered.
+   An error occurred while sending the request.
+To https://github.com/programmerPatient/shell-
+   951147e..40ea83b  master -> master
+git push
+--------------------------end---------------------------------------------------------
+-------------------------master分支直接提交(14:23:26)-----------------------------------
+执行的命令：
+git add -A
